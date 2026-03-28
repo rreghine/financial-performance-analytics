@@ -164,4 +164,4 @@ streamlit run app_nvidia_intel.py
 Data Analyst | Data Science & Analytics | MBA USP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelreghine-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rafaelreghine)
-[![GitHub](https://img.shields.io/badge/GitHub-reghine-black?style=flat-square&logo=github)](https://github.com/reghine)
+[![GitHub](https://img.shields.io/badge/GitHub-reghine-black?style=flat-square&logo=github)](https://github.com/rreghine)
